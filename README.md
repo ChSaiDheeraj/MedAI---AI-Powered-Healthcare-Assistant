@@ -57,7 +57,7 @@ Built during **T$O 2025** by Team404Found in collaboration with Jazzee Technolog
 
 <div align="center">
   <h3>MedAI - Patient Dashboard</h3>
-  <img src="[https://github.com/ChSaiDheeraj/Team404Found_ChakkaSaiDheeraj_Jazzee2025/blob/main/image.png?raw=true](https://github.com/ChSaiDheeraj/Team404Found_ChakkaSaiDheeraj_Jazzee2025/blob/main/patientdashboard.png)" width="800" alt="MedAI Dashboard Interface">
+  <img src="[[https://github.com/ChSaiDheeraj/Team404Found_ChakkaSaiDheeraj_Jazzee2025/blob/main/image.png?raw=true](https://drive.google.com/file/d/1Ty7nsCeMhpFDkrzT2utbspoACJKHWXkq/view?usp=sharing)](https://github.com/ChSaiDheeraj/Team404Found_ChakkaSaiDheeraj_Jazzee2025/blob/main/patientdashboard.png)" width="800" alt="MedAI Dashboard Interface">
   
   <table>
     <tr>
