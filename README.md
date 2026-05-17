@@ -77,7 +77,7 @@ Built during **T$O 2025** by Team404Found in collaboration with Jazzee Technolog
       </td>
       <td align="center">
         <strong>Emergency Services</strong><br>
-        <img src="https://drive.google.com/file/d/17NgUtF0onwiW8ARgILm4mFzvA9BOVYtC/view?usp=sharing" width="300" alt="Emergency Features">
+        <img src="https://github.com/ChSaiDheeraj/MedAI---AI-Powered-Healthcare-Assistant/blob/main/emergency.png" width="300" alt="Emergency Features">
       </td>
     </tr>
   </table>
