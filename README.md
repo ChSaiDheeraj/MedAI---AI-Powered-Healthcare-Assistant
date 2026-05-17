@@ -57,7 +57,7 @@ Built during **T$O 2025** by Team404Found in collaboration with Jazzee Technolog
 
 <div align="center">
   <h3>MedAI - Patient Dashboard</h3>
-  <img src="https://github.com/ChSaiDheeraj/MedAI---AI-Powered-Healthcare-Assistant/blob/main/patientdashboard.png" width="500" alt="MedAI Dashboard Interface">
+  <img src="https://github.com/ChSaiDheeraj/MedAI---AI-Powered-Healthcare-Assistant/blob/main/MedAI%20Dashboard%20Interface.png" width="500" alt="MedAI Dashboard Interface">
   
   <table>
     <tr>
@@ -73,7 +73,7 @@ Built during **T$O 2025** by Team404Found in collaboration with Jazzee Technolog
     <tr>
       <td align="center">
         <strong>Medical Reports</strong><br>
-        <img src="https://github.com/ChSaiDheeraj/Team404Found_ChakkaSaiDheeraj_Jazzee2025/blob/main/image.png?raw=true" width="300" alt="Health Reports">
+        <img src="https://github.com/ChSaiDheeraj/MedAI---AI-Powered-Healthcare-Assistant/blob/main/Medical_report.png" width="300" alt="Health Reports">
       </td>
       <td align="center">
         <strong>Emergency Services</strong><br>
