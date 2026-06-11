@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/ChSaiDheeraj/Team404Found_ChakkaSaiDheeraj_Jazzee2025/blob/main/medAIhackathonLogo.png?raw=true" width="600" alt="MedAI Hackathon Logo">
+  <img src="https://github.com/ChSaiDheeraj/MedAI---AI-Powered-Healthcare-Assistant/blob/main/assets/logo/medAIhackathonLogo.png" width="600" alt="MedAI Hackathon Logo">
 </div>
 
 <h1 align="center">MedAI - AI-Powered Healthcare Assistant</h1>
@@ -57,27 +57,27 @@ Built during **T$O 2025** by Team404Found in collaboration with Jazzee Technolog
 
 <div align="center">
   <h3>MedAI - Patient Dashboard</h3>
-  <img src="https://github.com/ChSaiDheeraj/MedAI---AI-Powered-Healthcare-Assistant/blob/main/MedAI%20Dashboard%20Interface.png" width="500" alt="MedAI Dashboard Interface">
+  <img src="https://github.com/ChSaiDheeraj/MedAI---AI-Powered-Healthcare-Assistant/blob/main/assets/screenshots/patientdashboard.png" width="500" alt="MedAI Dashboard Interface">
   
   <table>
     <tr>
       <td align="center">
         <strong>AI Doctor Chat</strong><br>
-        <img src="https://github.com/ChSaiDheeraj/MedAI---AI-Powered-Healthcare-Assistant/blob/main/chat.png" width="300" alt="AI Doctor Chat">
+        <img src="https://github.com/ChSaiDheeraj/MedAI---AI-Powered-Healthcare-Assistant/blob/main/assets/screenshots/chat.png" width="300" alt="AI Doctor Chat">
       </td>
       <td align="center">
         <strong>Appointment Booking</strong><br>
-        <img src="https://github.com/ChSaiDheeraj/MedAI---AI-Powered-Healthcare-Assistant/blob/main/Appointment_with_doctor.png" width="300" alt="Appointment System">
+        <img src="https://github.com/ChSaiDheeraj/MedAI---AI-Powered-Healthcare-Assistant/blob/main/assets/screenshots/appointment.png" width="300" alt="Appointment System">
       </td>
     </tr>
     <tr>
       <td align="center">
         <strong>Medical Reports</strong><br>
-        <img src="https://github.com/ChSaiDheeraj/MedAI---AI-Powered-Healthcare-Assistant/blob/main/Medical_report.png" width="300" alt="Health Reports">
+        <img src="https://github.com/ChSaiDheeraj/MedAI---AI-Powered-Healthcare-Assistant/blob/main/assets/screenshots/Medical_report.png" width="300" alt="Health Reports">
       </td>
       <td align="center">
         <strong>Emergency Services</strong><br>
-        <img src="https://github.com/ChSaiDheeraj/MedAI---AI-Powered-Healthcare-Assistant/blob/main/emergency.png" width="300" alt="Emergency Features">
+        <img src="https://github.com/ChSaiDheeraj/MedAI---AI-Powered-Healthcare-Assistant/blob/main/assets/screenshots/emergency.png" width="300" alt="Emergency Features">
       </td>
     </tr>
   </table>
