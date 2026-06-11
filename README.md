@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/ChSaiDheeraj/MedAI---AI-Powered-Healthcare-Assistant/blob/main/assets/logo/medAIhackathonLogo.png" width="600" alt="MedAI Hackathon Logo">
+  <img src="assets/logo/medAIhackathonLogo.png" width="600" alt="MedAI Hackathon Logo">
 </div>
 
 <h1 align="center">MedAI - AI-Powered Healthcare Assistant</h1>
